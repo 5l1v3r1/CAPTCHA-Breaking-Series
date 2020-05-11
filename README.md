@@ -13,6 +13,10 @@ For stage one, "CAPTCH_Breaking_Part_1.ipynb", follow this link and download the
 [Packt Publishing](https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook/blob/master/Chapter05/CAPTCHA%20Breaker/captcha_images.7z)
 
 More to be added.
+
+### Updates
+* Working on a GANs model to create more CAPTCHA samples.
+
 ## Authors
 
 * **Levitannin** - *Development of Series Notebooks*
